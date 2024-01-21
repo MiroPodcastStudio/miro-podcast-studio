@@ -1,0 +1,9 @@
+requests
+openai
+pydantic
+pydantic_settings
+uvicorn
+boto3
+pydub
+fastapi
+bs4
