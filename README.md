@@ -4,7 +4,7 @@ This project cotains API codebase for Miro Podcast Studio.
 
 API provides endpoints to create a podcast voice with given mindmap structure.
 
-![Architecture](images/architecture.png)
+![Architecture](backend/images/architecture.png)
 
 ## Endpoints
 
